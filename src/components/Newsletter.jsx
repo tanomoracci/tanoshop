@@ -10,6 +10,7 @@ const Container = styled.div`
     justify-content: center;
     align-items: center;
     direction: column;
+    background-color: #695e5a;
 `
 const Title = styled.h1`
     font-size: 70px;

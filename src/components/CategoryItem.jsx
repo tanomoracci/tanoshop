@@ -24,7 +24,7 @@ const Info = styled.div`
     display: flex, 
     align-items: center;
     justify-content: center;
-    direction: column;
+    direction: column; 
 `
 
 const Title = styled.h1`
